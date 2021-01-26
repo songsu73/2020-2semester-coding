@@ -18,4 +18,4 @@ int main() {
 	Struct 직사각형(4,5);
 	cout << "면적은 " << 직사각형.getArea();
 }
-# 구조체 Struct 학습
+//구조체 Struct 학습
